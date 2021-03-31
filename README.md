@@ -91,9 +91,20 @@ Acessar os formularios da Tricentis<br>
     
 --------------------------------------------------------------------
 ## Dependencias
+
+- cucumber-java
+- cucumber-junit
+- junit
+- selenium-java
+- junit-jupiter
 - Projeto Java do repo abaixo rodando no site da Tricentis<br>
 http://sampleapp.tricentis.com/101/app.php <br>
-Link do repositório: https://github.com/Karinecasant/test-sellenium-individal<br>
+Link do repositório: https://github.com/Karinecasant/test-sellenium-individal<br
+
+--------------------------------------------------------------------
+## Plugin
+
+- maven-compiler
 
 --------------------------------------------------------------------
 
