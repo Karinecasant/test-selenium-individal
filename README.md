@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/maven-v.3.3-orange.svg)
 
 # Projeto: Prova final Test Sellenium 
-🎨 Autorea: <br>
+🎨 Autora: <br>
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Karine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-santos-8023b6127/)](https://www.linkedin.com/in/karine-santos-8023b6127/) [Karine Carolina dos Santos](https://github.com/Karinecasant)  
 
