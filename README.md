@@ -1,4 +1,4 @@
-# test-sellenium-individal
+# Prova final Test Sellenium
 
 ![](https://img.shields.io/badge/java-v.1.8-blue.svg)
 ![](https://img.shields.io/badge/cucumber-v.0.0.1-yellow.svg)
@@ -178,20 +178,21 @@ test.bat
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
     |  |  |  |  |-- hopper<br>
-    |  |  |  |  |  |-- LgdpTestSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- ListAccentureTestSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- ListaCarreirasTestSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- EnterInsurantDataSteps -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- EnterProductDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- EnterVehicleDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
     |  |  |  |  |  |-- RunCucumberTest.java -- Arquivo que configura a inicialização do Java test <br>
-    |  |  |  |  |  |-- SharedSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- SobreTestSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- SelectPriceOptionSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- SendQuoteSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
     |  |-- resources<br>
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
     |  |  |  |  |-- hopper<br>
-    |  |  |  |  |  |-- LgpdTest.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- ListAccentureTest.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- ListaCarreirasTest.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- SobreTest.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- EnterInsurantData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- EnterProductData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- EnterVehicleData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- SelectPriceOption.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- SendQuoteSteps.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
   test.bat -- Arquivo para rodar teste no Windows<br>
   test.sh -- Arquivo para rodar teste no Unix<br>
 </pre>
