@@ -189,21 +189,21 @@ test.bat
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
     |  |  |  |  |-- hopper<br>
-    |  |  |  |  |  |-- EnterInsurantDataSteps -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- EnterProductDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- EnterVehicleDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- RunCucumberTest.java -- Arquivo que configura a inicialização do Java test <br>
-    |  |  |  |  |  |-- SelectPriceOptionSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
-    |  |  |  |  |  |-- SendQuoteSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- Form1_VehicleDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- Form2_InsurantDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- Form3_ProductDataSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- Form4_PriceOptionsSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |-- Form5_QuoteSteps.java -- Passos escritos em java com selenium abrindo o browser e testando a aplicação<br>
+    |  |  |  |  |  |--RunCucumberTest.java -- Arquivo que configura a inicialização do Java test <br>
     |  |-- resources<br>
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
     |  |  |  |  |-- hopper<br>
-    |  |  |  |  |  |-- EnterInsurantData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- EnterProductData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- EnterVehicleData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- SelectPriceOption.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
-    |  |  |  |  |  |-- SendQuoteSteps.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- Form1_VehicleData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- Form2_InsurantData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- Form3_ProductData.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- Form4_PriceOptions.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
+    |  |  |  |  |  |-- Form5_Quote.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
   test.bat -- Arquivo para rodar teste no Windows<br>
   test.sh -- Arquivo para rodar teste no Unix<br>
 </pre>
