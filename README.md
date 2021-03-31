@@ -57,7 +57,7 @@ Acessar os formularios da Tricentis<br>
 ### Caso de teste 3
 Acessar os formularios da Tricentis<br>
 
- <b>Cenário</b: Acessar e preencher o formulario Enter Product Data do site<br>
+ <b>Cenário</b>: Acessar e preencher o formulario Enter Product Data do site<br>
     Dado que eu estou no site da Trincentis no formulario "Enter Product Data"<br>
     E seleciono Start Date e digito "03/25/2021"<br>
     E seleciono Insurance Sum e clico em "5.000.000,00"<br>
