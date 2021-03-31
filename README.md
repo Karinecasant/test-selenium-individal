@@ -8,7 +8,8 @@
 # Projeto: Prova final Teste Selenium
 🎨 Autora: <br>
 
-https://github.com/Karinecasant/bootstrap/blob/main/repositorio%20img/foto%20Karine.jpg?raw=true
+<img align="right" width="400px" src="https://github.com/Karinecasant/bootstrap/blob/main/repositorio%20img/foto%20Karine.jpg?raw=true">
+
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Karine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-santos-8023b6127/)](https://www.linkedin.com/in/karine-santos-8023b6127/) [Karine Carolina dos Santos](https://github.com/Karinecasant)  
 
