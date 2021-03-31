@@ -1,11 +1,11 @@
-# Prova final Test Sellenium
+# Prova final Teste Selenium
 
 ![](https://img.shields.io/badge/java-v.1.8-blue.svg)
 ![](https://img.shields.io/badge/cucumber-v.0.0.1-yellow.svg)
 ![](https://img.shields.io/badge/selenium-v.3.141.59-green.svg)
 ![](https://img.shields.io/badge/maven-v.3.3-orange.svg)
 
-# Projeto: Prova final Test Sellenium 
+# Projeto: Prova final Teste Selenium
 🎨 Autora: <br>
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Karine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karine-santos-8023b6127/)](https://www.linkedin.com/in/karine-santos-8023b6127/) [Karine Carolina dos Santos](https://github.com/Karinecasant)  
