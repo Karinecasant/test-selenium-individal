@@ -1,11 +1,12 @@
-# Prova final Teste Selenium
+# Projeto: Prova final Teste Selenium
 
 ![](https://img.shields.io/badge/java-v.1.8-blue.svg)
 ![](https://img.shields.io/badge/cucumber-v.0.0.1-yellow.svg)
 ![](https://img.shields.io/badge/selenium-v.3.141.59-green.svg)
 ![](https://img.shields.io/badge/maven-v.3.3-orange.svg)
 
-# Projeto: Prova final Teste Selenium
+--------------------------------------------------------------------
+
 🎨 Autora: <br>
 
 <img align="center" width="100" src="https://github.com/Karinecasant/bootstrap/blob/main/repositorio%20img/foto%20Karine.jpg?raw=true">
