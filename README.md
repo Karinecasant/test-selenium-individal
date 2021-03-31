@@ -30,7 +30,7 @@ Acessar os formularios da Tricentis<br>
     E seleciono novamente Number of Seats e digito "2"<br>
     E seleciono Fuel Type "Gas"<br>
     E informo em Payload "400"<br>
-    E informo em Total Weight "900<br>"
+    E informo em Total Weight "900"<br>
     E informo em List Price "8000"<br>
     E informo em License Plate Number "1234"<br>
     E informo em Annual Mileage "90000"<br>
@@ -43,13 +43,13 @@ Acessar os formularios da Tricentis<br>
     Dado que eu estou no site da Trincentis no formulario "Enter Insurant Data"<br>
     E seleciono First Name e digito "Karine"<br>
     E seleciono Last Name e digito em "Santos"<br>
-    E seleciono Date of Birth e digito "03/22/1992<br>"
+    E seleciono Date of Birth e digito "03/22/1992"<br>
     E seleciono Gender e clico em "Female"<br>
     E digito em Street Adress "Benedito Street"<br>
     E seleciono em Contry e clico em "Brazil"<br>
-    E seleciono em Zip Code e digito "07801010"<br>"
+    E seleciono em Zip Code e digito "07801010"<br>
     E seleciono em City e digito "Sao Paulo"<br>
-    E seleciono Occupation e seleciono "Employee<br>"
+    E seleciono Occupation e seleciono "Employee<br>
     E seleciono Hobbies e clico em "Speeding"<br>
     E informo em Website "www.quality.com.br"<br>
     Entao devo clicar em Next para o formulario Enter Product Data<br>
@@ -64,7 +64,7 @@ Acessar os formularios da Tricentis<br>
     E seleciono Merit Rating e clico em "Bonus 2"<br>
     E seleciono Damage Insurance e clico em "No Coverage"<br>
     E seleciono Optional Products e clico em "Euro Protection"<br>
-    E seleciono Courtesy Car e clico em "Yes" <br>
+    E seleciono Courtesy Car e clico em "Yes"<br>
     Entao devo clicar em Next para o formulario Select Price Option<br>
     
 ### Caso de teste 4
@@ -78,7 +78,7 @@ Acessar os formularios da Tricentis<br>
 ### Caso de teste 5
 Acessar os formularios da Tricentis<br>
 
- Cenario: Acessar e preencher o formulario Send Quote do site<br>
+<b>Cenário</b>: Acessar e preencher o formulario Send Quote do site<br>
     Dado que eu estou no site da Trincentis no formulario "Send Quote"<br>
     E seleciono E-mail e digito "karinecasant@gmail.com"<br>
     E seleciono Phone e digito "11986476344"<br>
