@@ -18,81 +18,82 @@
 ### Caso de teste 1
 Acessar os formularios da Tricentis<br>
 
-  <b>Cenário</b>: Acessar e preencher o formulario Enter Vehicle Data do site
-    Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"
-    E seleciono Make e clico em "Audi"
-    E seleciono Model e clico em "Scooter"
-    E informo em Cylinder Capacity "300"
-    E informo em Engine Performance "2000"
-    E digito em Date of Manufacture "03/25/2021"
-    E seleciono em Number of Seats e clico em "2"
-    E seleciono em Right Hand Drive e clico em "Yes"
-    E seleciono novamente Number of Seats e digito "2"
-    E seleciono Fuel Type "Gas"
-    E informo em Payload "400"
-    E informo em Total Weight "900"
-    E informo em List Price "8000"
-    E informo em License Plate Number "1234"
-    E informo em Annual Mileage "90000"
-    Entao devo clicar em Next para o formulario Insurant Data
+  <b>Cenário</b>: Acessar e preencher o formulario Enter Vehicle Data do site<br>
+    Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"<br>
+    E seleciono Make e clico em "Audi"<br>
+    E seleciono Model e clico em "Scooter"<br>
+    E informo em Cylinder Capacity "300"<br>
+    E informo em Engine Performance "2000"<br>
+    E digito em Date of Manufacture "03/25/2021"<br>
+    E seleciono em Number of Seats e clico em "2"<br>
+    E seleciono em Right Hand Drive e clico em "Yes"<br>
+    E seleciono novamente Number of Seats e digito "2"<br>
+    E seleciono Fuel Type "Gas"<br>
+    E informo em Payload "400"<br>
+    E informo em Total Weight "900<br>"
+    E informo em List Price "8000"<br>
+    E informo em License Plate Number "1234"<br>
+    E informo em Annual Mileage "90000"<br>
+    Entao devo clicar em Next para o formulario Insurant Data<br>
     
 ### Caso de teste 2
 Acessar os formularios da Tricentis<br>
 
-  <b>Cenário</b>: Acessar e preencher o formulario Enter Insurant Data do site
-    Dado que eu estou no site da Trincentis no formulario "Enter Insurant Data"
-    E seleciono First Name e digito "Karine"
-    E seleciono Last Name e digito em "Santos"
-    E seleciono Date of Birth e digito "03/22/1992"
-    E seleciono Gender e clico em "Female"
-    E digito em Street Adress "Benedito Street"
-    E seleciono em Contry e clico em "Brazil"
-    E seleciono em Zip Code e digito "07801010"
-    E seleciono em City e digito "Sao Paulo"
-    E seleciono Occupation e seleciono "Employee"
-    E seleciono Hobbies e clico em "Speeding"
-    E informo em Website "www.quality.com.br"
-    Entao devo clicar em Next para o formulario Enter Product Data
+  <b>Cenário</b>: Acessar e preencher o formulario Enter Insurant Data do site<br>
+    Dado que eu estou no site da Trincentis no formulario "Enter Insurant Data"<br>
+    E seleciono First Name e digito "Karine"<br>
+    E seleciono Last Name e digito em "Santos"<br>
+    E seleciono Date of Birth e digito "03/22/1992<br>"
+    E seleciono Gender e clico em "Female"<br>
+    E digito em Street Adress "Benedito Street"<br>
+    E seleciono em Contry e clico em "Brazil"<br>
+    E seleciono em Zip Code e digito "07801010"<br>"
+    E seleciono em City e digito "Sao Paulo"<br>
+    E seleciono Occupation e seleciono "Employee<br>"
+    E seleciono Hobbies e clico em "Speeding"<br>
+    E informo em Website "www.quality.com.br"<br>
+    Entao devo clicar em Next para o formulario Enter Product Data<br>
     
 ### Caso de teste 3
 Acessar os formularios da Tricentis<br>
 
- <b>Cenário</b: Acessar e preencher o formulario Enter Product Data do site 
-    Dado que eu estou no site da Trincentis no formulario "Enter Product Data"
-    E seleciono Start Date e digito "03/25/2021"
-    E seleciono Insurance Sum e clico em "5.000.000,00"
-    E seleciono Merit Rating e clico em "Bonus 2"
-    E seleciono Damage Insurance e clico em "No Coverage"
-    E seleciono Optional Products e clico em "Euro Protection"
-    E seleciono Courtesy Car e clico em "Yes" 
-    Entao devo clicar em Next para o formulario Select Price Option
+ <b>Cenário</b: Acessar e preencher o formulario Enter Product Data do site<br>
+    Dado que eu estou no site da Trincentis no formulario "Enter Product Data"<br>
+    E seleciono Start Date e digito "03/25/2021"<br>
+    E seleciono Insurance Sum e clico em "5.000.000,00"<br>
+    E seleciono Merit Rating e clico em "Bonus 2"<br>
+    E seleciono Damage Insurance e clico em "No Coverage"<br>
+    E seleciono Optional Products e clico em "Euro Protection"<br>
+    E seleciono Courtesy Car e clico em "Yes" <br>
+    Entao devo clicar em Next para o formulario Select Price Option<br>
     
 ### Caso de teste 4
 Acessar os formularios da Tricentis<br>
 
-  <b>Cenário</b>: Acessar e preencher o formulario Select Price Option do site
-    Dado que eu estou no site da Trincentis no formulario "Select Price Option"
-    E seleciono Select Option o plano Gold
-    Entao devo clicar em Next para o formulario Send Quote
+  <b>Cenário</b>: Acessar e preencher o formulario Select Price Option do site<br>
+    Dado que eu estou no site da Trincentis no formulario "Select Price Option"<br>
+    E seleciono Select Option o plano Gold<br>
+    Entao devo clicar em Next para o formulario Send Quote<br>
     
 ### Caso de teste 5
 Acessar os formularios da Tricentis<br>
 
- Cenario: Acessar e preencher o formulario Send Quote do site
-    Dado que eu estou no site da Trincentis no formulario "Send Quote"
-    E seleciono E-mail e digito "karinecasant@gmail.com"
-    E seleciono Phone e digito "11986476344"
-    E seleciono Username e digito "karine22"
-    E seleciono Password e digito "senha22"
-    E seleciono Confirm Password e digito "senha22"
-    E seleciono Comments e digito "Fico aguardando resposta referente cotação"
-    E devo clicar em Send
-    Entao ver a mensagem "Sending e-mail success!"
+ Cenario: Acessar e preencher o formulario Send Quote do site<br>
+    Dado que eu estou no site da Trincentis no formulario "Send Quote"<br>
+    E seleciono E-mail e digito "karinecasant@gmail.com"<br>
+    E seleciono Phone e digito "11986476344"<br>
+    E seleciono Username e digito "karine22"<br>
+    E seleciono Password e digito "senha22"<br>
+    E seleciono Confirm Password e digito "senha22"<br>
+    E seleciono Comments e digito "Fico aguardando resposta referente cotação"<br>
+    E devo clicar em Send<br>
+    Entao ver a mensagem "Sending e-mail success!"<br>
+    
 --------------------------------------------------------------------
 ## Dependencias
-- Projeto Java do repo abaixo rodando no site da Accenture<br>
-https://www.accenture.com/br-pt <br>
-Link do repositório: https://github.com/luialbeto/FinalAcademy <br>
+- Projeto Java do repo abaixo rodando no site da Tricentis<br>
+http://sampleapp.tricentis.com/101/app.php <br>
+Link do repositório: https://github.com/Karinecasant/test-sellenium-individal<br>
 
 --------------------------------------------------------------------
 
@@ -122,12 +123,12 @@ https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
 
 - Clone do projeto
  ```bash
-git clone https://github.com/luialbeto/FinalAcademy
+git clone https://github.com/Karinecasant/test-sellenium-individal
  ```
 
 - Entrando na pasta do projeto
  ```bash
-cd FinalAcademy
+cd test-sellenium-individal
  ```
 
 - Configurando selenium em seu computador
