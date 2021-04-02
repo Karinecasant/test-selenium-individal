@@ -4,7 +4,7 @@ Funcionalidade: Acessar os formularios da Tricentis
 
   Cenario: Acessar e preencher o formulario
     Dado que eu estou no site da Trincentis no formulario "Enter Product Data"
-    E seleciono Start Date e digito "03/25/2021"
+    E seleciono Start Date e digito "06/22/2021"
     E seleciono Insurance Sum e clico em "5.000.000,00"
     E seleciono Merit Rating e clico em "Bonus 2"
     E seleciono Damage Insurance e clico em "No Coverage"
